@@ -15,11 +15,8 @@ order: 1
 
 - **QweRez (discord: qwerezon)**
   - *Россия/Казахстан/Украина/Беларусь/Прочие постсоветские страны*
-  - [Подробнее QweRez](https://www.qwemarket.com/)
-
 - **Moheta (discord: moheta)**
   - *Россия*
-  - [Подробнее Moheta](https://cis.korepi.com/moheta)
 
 
 Если у вас есть вопросы по продажам, обращайтесь к одному из наших продавцов.
