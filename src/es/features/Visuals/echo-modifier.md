@@ -1,14 +1,14 @@
 ---
-title: Modificador de Ecos
+title: Modificador de Estelas
 icon: list
 category:
   - Features
 tag:
-  - Modificador de Ecos
+  - Modificador de Estelas
 author: Schvis
 order: 17
 ---
 ::: info Solo para PERTAMAX
 :::
 
-## El Modificador de Ecos permite al jugador usar cualquier Eco en cualquier personaje.
+## El Modificador de Estelas permite al jugador usar cualquier Estela en cualquier personaje.
