@@ -131,5 +131,5 @@ highlights:
       details: 보안을 중시하여 데이터에 안전하게 액세스하고 보호합니다.
 
 copyright: false
-footer: Copyright © 2023 Micah && Kitten All rights reserved. 기타 모든 상표, 스크린샷, 로고 및 저작권은 해당 소유자의 재산입니다.
+footer: Copyright © 2024 Kitten All rights reserved. 기타 모든 상표, 스크린샷, 로고 및 저작권은 해당 소유자의 재산입니다.
 ---

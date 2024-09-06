@@ -34,8 +34,8 @@ export default hopeTheme({
   hostname: "https://korepi.com/",
 
   author: {
-    name: "Micah",
-    url: "https://github.com/micah123321/",
+    name: "Borepi",
+    url: "https://github.com/boreki/",
   },
 
   iconAssets: "fontawesome-with-brands",

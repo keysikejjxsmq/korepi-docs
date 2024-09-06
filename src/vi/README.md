@@ -132,5 +132,5 @@ highlights:
 
 
 copyright: false
-footer: Bản quyền © 2023 Micah && Kitten Mọi quyền được bảo lưu. Tất cả các nhãn hiệu, ảnh chụp màn hình, logo và bản quyền khác là tài sản của chủ sở hữu tương ứng.
+footer: Bản quyền © 2024 Kitten Mọi quyền được bảo lưu. Tất cả các nhãn hiệu, ảnh chụp màn hình, logo và bản quyền khác là tài sản của chủ sở hữu tương ứng.
 ---

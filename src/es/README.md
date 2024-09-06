@@ -115,5 +115,5 @@ highlights:
         icon: shield-alt
         details: Priorizamos la seguridad, asegurando un acceso seguro y protegiendo tu información
 copyright: false
-footer: Copyright © 2023 Micah && Kitten Reservados todos los derechos. Todas las demás marcas, capturas de pantalla, logotipos y derechos de autor son propiedad de sus respectivos dueños.
+footer: Copyright © 2024 && Kitten Reservados todos los derechos. Todas las demás marcas, capturas de pantalla, logotipos y derechos de autor son propiedad de sus respectivos dueños.
 ---

@@ -6,7 +6,7 @@ category:
 tag:
   - Başlangıç
   - Lisans
-author: Schvis,Micah
+author: Schvis
 order: 1
 ---
 ## Doğrulama Eğitimi
