@@ -6,7 +6,7 @@ category:
 tag:
   - Start
   - License
-author: Schvis , ShikiYuri , Micah
+author: Schvis , ShikiYuri
 order: 1
 ---
 ## วิธีการยืนยันตัวตน

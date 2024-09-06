@@ -131,5 +131,5 @@ highlights:
         details: 我们重视安全性，保护您的数据
 
 copyright: false
-footer: 版权所有 © 2023 Micah && Kitten。保留所有权利。所有其他商标、截图、标志和版权均为其各自所有者的财产。
+footer: 版权所有 © 2024 Kitten。保留所有权利。所有其他商标、截图、标志和版权均为其各自所有者的财产。
 ---

@@ -6,7 +6,7 @@ category:
 tag:
   - Start
   - License
-author: Schvis, Micah
+author: Schvis
 order: 1
 ---
 ## Verification Tutorial

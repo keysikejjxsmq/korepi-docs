@@ -131,5 +131,5 @@ highlights:
         details: Keamanan adalah prioritas kami, memastikan akses yang aman dan perlindungan data Anda.
 
 copyright: false
-footer: Hak Cipta © 2023 Micah && Kitten Hak cipta dilindungi undang-undang. Semua merek dagang, tangkapan layar, logo, dan hak cipta lainnya adalah milik dari pemiliknya masing-masing.
+footer: Hak Cipta © 2024 Kitten Hak cipta dilindungi undang-undang. Semua merek dagang, tangkapan layar, logo, dan hak cipta lainnya adalah milik dari pemiliknya masing-masing.
 ---

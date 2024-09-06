@@ -131,5 +131,5 @@ highlights:
       details: We value security, ensuring safe access and protection of your data.
 
 copyright: false
-footer: Copyright © 2023 Micah && Kitten All rights reserved. All other trademarks, screenshots, logos, and copyrights are the property of their respective owners.
+footer: Copyright © 2024 Kitten All rights reserved. All other trademarks, screenshots, logos, and copyrights are the property of their respective owners.
 ---

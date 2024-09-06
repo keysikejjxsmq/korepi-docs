@@ -6,7 +6,7 @@ category:
 tag:
   - 시작
   - 라이선스
-author: Schvis, Micah
+author: Schvis
 order: 1
 ---
 ## 인증 튜토리얼
