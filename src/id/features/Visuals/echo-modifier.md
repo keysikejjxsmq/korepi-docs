@@ -1,5 +1,5 @@
 ---
-title: Echo Modifer
+title: Echo Modifier
 icon: leaf
 category:
   - Fitur
