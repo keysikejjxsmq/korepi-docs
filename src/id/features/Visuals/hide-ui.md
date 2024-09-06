@@ -1,13 +1,13 @@
 ---
 title: Hide UI
-icon: square
+icon: eye-low-vision
 category:
   - Fitur
 tag:
   - Hide UI
   - Visual
 author: Schvis, Kaede, Chloe, NatsumeAoii
-order: 12
+order: 13
 ---
 
 ## Hide UI:

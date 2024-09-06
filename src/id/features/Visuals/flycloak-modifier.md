@@ -7,7 +7,7 @@ tag:
   - Flycloack Modifier
   - Visual
 author: Schvis, Kaede, RodanZ, NatsumeAoii
-order: 10
+order: 11
 ---
 ::: info Eksklusif Untuk PERTAMAX!
 :::

@@ -7,7 +7,7 @@ tag:
   - Extra Visual Settings
   - Visual
 author: Schvis, Kaede, Chloe, RodanZ, NatsumeAoii
-order: 7
+order: 8
 ---
 ::: info Eksklusif Untuk Sponsor!
 :::

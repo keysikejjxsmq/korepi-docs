@@ -1,14 +1,14 @@
 ---
 title: Echo Modifer
-icon: list
+icon: leaf
 category:
-  - Features
+  - Fitur
 tag:
   - Echo Modifier
-author: Schvis
-order: 17
+author: Schvis, FaizBastomi
+order: 6
 ---
-::: info PERTAMAX Only
+::: info Khusus PERTAMAX
 :::
 
-## Echo Modifier allows the user to apply any Echo to any of their characters.
+## Echo Modifier memperbolehkan pengguna untuk menggunakan Echo apapun ke karakter apapun yang mereka miliki.
