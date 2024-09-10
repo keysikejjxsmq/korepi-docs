@@ -30,5 +30,8 @@ export const zhNavbar = navbar([
 
         ],
 
-    }, "/zh/others/ap.html",
+    }, "/zh/others/ap.html",{
+        text: 'CDN推荐', // 导航栏显示的文字
+        link: 'https://sunteccloud.com' // 导航链接指向的友链地址
+    },
 ]);
