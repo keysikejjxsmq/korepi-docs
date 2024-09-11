@@ -7,7 +7,7 @@ tag:
   - Free Camera
   - Visual
 author: Schvis, Kaede, Chloe, RodanZ, NatsumeAoii
-order: 11
+order: 12
 ---
 ::: info Eksklusif Untuk Sponsor!
 :::

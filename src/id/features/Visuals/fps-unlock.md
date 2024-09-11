@@ -7,7 +7,7 @@ tag:
   - FPS Unlock
   - Visual
 author: Schvis, Kaede, NatsumeAoii
-order: 8
+order: 9
 ---
 
 ## FPS Unlock memungkinkan Anda untuk membuka batas FPS, sehingga meningkatkan jumlah frame per detik yang dapat dicapai oleh game.

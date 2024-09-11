@@ -1,13 +1,13 @@
 ---
 title: Texture Changer
-icon: list
+icon: person-rays
 category:
   - Fitur
 tag:
   - Texture Changer
   - Visual
 author: Schvis, Kaede, NatsumeAoii
-order: 15
+order: 17
 ---
 ::: info
 Disarankan menggunakan [GIMI](../../guide/3DM-tutorial.md) untuk mengganti tekstur.

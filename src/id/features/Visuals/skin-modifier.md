@@ -1,13 +1,13 @@
 ---
 title: Skin Modifier
-icon: list
+icon: person-half-dress
 category:
   - Fitur
 tag:
   - Skin Modifier
   - Visual
 author: Schvis, Kaede, RodanZ, NatsumeAoii
-order: 14
+order: 16
 ---
 ::: info Eksklusif Untuk PERTAMAX!
 :::

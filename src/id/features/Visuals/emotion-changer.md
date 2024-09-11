@@ -7,7 +7,7 @@ tag:
   - Emotion Changer
   - Visual
 author: Schvis, Kaede, RodanZ, NatsumeAoii
-order: 6
+order: 7
 ---
 ::: info Eksklusif Untuk PERTAMAX!
 :::
