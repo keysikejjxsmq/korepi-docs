@@ -12,7 +12,7 @@ order: 2
 
 ## Korepiの無料ライセンス取得方法。
 
-<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ljOjDE79QD0" title="How to use Free version of Korepi - Updated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### ステップ 1:
 - `🔐｜verification` チャンネルを探す [リンク](https://discord.com/channels/1069057220802781265/1203687333107335198)
