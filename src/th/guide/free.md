@@ -12,7 +12,7 @@ order: 2
 
 ## วิธีรับคีย์ฟรีสำหรับ Korepi
 
-<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/SWI-GeqKx1g" title="How to use Korepi for free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ljOjDE79QD0" title="How to use Free version of Korepi - Updated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### ขั้นตอนที่ 1:
 - หาช่อง [`🔑 | micah-bot-verify`](https://discord.com/channels/1069057220802781265/1203687333107335198) หรือหากใช้ไม่ได้ ให้ใช้ [`verify-bak`](https://discord.com/channels/1069057220802781265/1238877451174678558)
