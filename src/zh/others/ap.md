@@ -29,14 +29,13 @@ order: 1
 
 ### 只因云
 
-- 机场地址：[点我跳转](https://jp.korepi.com/)
-- korepi作者保证, 快速稳定不跑路
+- 机场地址：[点我跳转](https://tar.korepi.com/)
 - 流量不限时间 随用随停 轻量用户备用首选
 - 全平台支持
 - Android iOS windows mac linux
 - 有一元试用套餐
 - 地区:美国|香港|台湾|日本|新加坡等等
-- 协议:vmess vless
+- 协议:vmess vless ss
 - 流媒体解锁支持
 - ChatGPT/OpenAI解锁
 - 不限制使用客户端数量
