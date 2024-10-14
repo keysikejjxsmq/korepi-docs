@@ -11,7 +11,7 @@ order: 1
 ---
 ## วิธีการยืนยันตัวตน
 
-<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/ST9akMsGJog" title="How to activate your key - Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/x_fIDmyQJiI" title="How to use Pertamax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ::: danger หากคุณมีการสมัครสมาชิกที่ใช้งานอยู่, อย่า Bind การ์ดอื่นๆ มิฉะนั้นคุณจะสูญเสียการสมัครสมาชิกปัจจุบันของคุณ หากคุณ bind การ์ดอื่นๆแล้ว คุณจะไม่สามารถรับการ์ด sponsor ได้อีก
 :::
