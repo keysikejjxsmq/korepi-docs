@@ -7,7 +7,7 @@ tag:
   - Start
   - Skins
 author: Schvis
-order: 4
+order: 5
 ---
 
 ::: info If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`. 
