@@ -2,52 +2,52 @@
 title: Launcher Tutorial
 icon: key
 category:
-  - Guide
+  - Guia
 tag:
-  - Start
+  - Inicio
   - License
-author: Schvis
+author: Dani
 order: 1
 ---
 
-## How to user the Korepi Launcher.
+## Como usar o Launcher Korepi
 
-### Step 1: Download.
+### Passo 1: Baixar
 
-- Download latest Launcher from [here](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi).
-- After downloading open launcher with Administrator.
-- After opening the launcher it will create a folder in `C:/Korepi`, and the launcher will be moved there automatically.
-    - You will be able to change or modify the files in this directory.
+- Faça o download da versão mais recente do Launcher [aqui](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi).
+- Após o download, abra o launcher como Administrador.
+- Quando o launcher for aberto, ele criará uma pasta em `C:/Korepi`, e será movido automaticamente para lá.
+    - Você poderá alterar ou modificar os arquivos nesse diretório.
 
-### Step 2: Select the options you want to use.
+### Passo 2: Selecione as opções que deseja usar
 
 ![img.png](/assets/images/docs/202402/launcherkp.png)
 
-- You will be able to choose what features you want to use in the launcher.
-    - Keep in mind that launcher is still being developed, you may encounter some unexpected issues.
-- After selecting your desired features, click confirm.
+- Escolha os recursos que deseja usar no launcher.
+    - Lembre-se de que o launcher ainda está em desenvolvimento, então podem ocorrer problemas inesperados.
+- Após selecionar os recursos desejados, clique em confirmar.
 
-### Step 3: Installing.
+### Passo 3: Instalação
 
-::: info Click Ok if you encounter `data.json` error.
+::: info Clique em Ok se encontrar o erro `data.json`.
 :::
 
 ![img.png](/assets/images/docs/202402/launcherkp2.png)
 
-- Click on download, if the launcher didn't download the last version automatically.
+- Clique em "Baixar" caso o launcher não tenha baixado a versão mais recente automaticamente.
 
-### Step 4: Setting up.
+### Passo 4: Configuração
 
 ![img.png](/assets/images/docs/202402/launcherkp3.png)
 
-1. After downloading, link your key.
-    - If you don't know whats your key you can check on [#verification](https://discord.com/channels/1251244897021722735/1255892075371827313), and click on `view subscription information`.
-    - You will have to complete a simple math captcha to continue.
+1. Após o download, vincule sua chave (key).
+    - Se você não souber qual é a sua chave, verifique no canal [#verification](https://discord.com/channels/1251244897021722735/1255892075371827313) e clique em "ver informações de assinatura".
+    - Será necessário completar um captcha de matemática simples para continuar.
 
 ![img.png](/assets/images/docs/202402/launcherkp4.png)
 
-2. After succesfully linking your license succesfully, you will need to retrieve your `SP Key`.
+2. Após vincular sua licença com sucesso, será necessário recuperar sua `Chave SP`.
 
 ![img.png](/assets/images/docs/202402/launcherkp5.png)
 
-3. After succesfully retrieving your SP Key you will be able to click on the `Launch` button and start using Korepi.
+3. Depois de recuperar sua Chave SP com sucesso, você poderá clicar no botão `Lançar` e começar a usar o Korepi.
