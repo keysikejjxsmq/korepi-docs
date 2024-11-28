@@ -21,7 +21,7 @@ order: 1
 
 ### Passo 2: Selecione as opções que deseja usar
 
-![img.png](/assets/images/docs/202402/launcherkp.png)
+![img.png](/assets/images/docs/202312/launcherkp.png)
 
 - Escolha os recursos que deseja usar no launcher.
     - Lembre-se de que o launcher ainda está em desenvolvimento, então podem ocorrer problemas inesperados.
@@ -32,22 +32,22 @@ order: 1
 ::: info Clique em Ok se encontrar o erro `data.json`.
 :::
 
-![img.png](/assets/images/docs/202402/launcherkp2.png)
+![img.png](/assets/images/docs/202312/launcherkp2.png)
 
 - Clique em "Baixar" caso o launcher não tenha baixado a versão mais recente automaticamente.
 
 ### Passo 4: Configuração
 
-![img.png](/assets/images/docs/202402/launcherkp3.png)
+![img.png](/assets/images/docs/202312/launcherkp3.png)
 
 1. Após o download, vincule sua chave (key).
     - Se você não souber qual é a sua chave, verifique no canal [#verification](https://discord.com/channels/1251244897021722735/1255892075371827313) e clique em "ver informações de assinatura".
     - Será necessário completar um captcha de matemática simples para continuar.
 
-![img.png](/assets/images/docs/202402/launcherkp4.png)
+![img.png](/assets/images/docs/202312/launcherkp4.png)
 
 2. Após vincular sua licença com sucesso, será necessário recuperar sua `Chave SP`.
 
-![img.png](/assets/images/docs/202402/launcherkp5.png)
+![img.png](/assets/images/docs/202312/launcherkp5.png)
 
 3. Depois de recuperar sua Chave SP com sucesso, você poderá clicar no botão `Lançar` e começar a usar o Korepi.
