@@ -10,44 +10,45 @@ author: Schvis
 order: 1
 ---
 
-## How to user the Korepi Launcher.
+## Cara Menggunakan Launcher Korepi.
 
 ### Step 1: Download.
 
-- Download latest Launcher from [here](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi).
-- After downloading open launcher with Administrator.
-- After opening the launcher it will create a folder in `C:/Korepi`, and the launcher will be moved there automatically.
-    - You will be able to change or modify the files in this directory.
+- Unduh Launcher terbaru dari [sini](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi).
+- Setelah mengunduh, buka launcher dengan Administrator.
+- Setelah membukanya, launcher akan membuat folder di `C:/Korepi` dan launcher akan dipindahkan ke sana otomatis.
+    - Kamu bisa mengubah atau memodifikasi file-file di direktori ini.
 
-### Step 2: Select the options you want to use.
+### Step 2: Pilih opsi yang kamu ingin gunakan.
 
 ![img.png](/assets/images/docs/202312/launcherkp.png)
 
-- You will be able to choose what features you want to use in the launcher.
-    - Keep in mind that launcher is still being developed, you may encounter some unexpected issues.
-- After selecting your desired features, click confirm.
+- Kamu bisa memilih fitur apa saja yang kamu mau pakai di launcher.
+    - Mohon diperhatikan bahwa launcher dalam tahap pengembangan, kamu mungkin akan menemukan beberapa isu atau eror.
+- Setelah memilih fitur yang kamu inginkan, klik confirm.
 
-### Step 3: Installing.
+### Step 3: Memasang.
 
-::: info Click Ok if you encounter `data.json` error.
+::: info Info
+Klik Ok, jika kamu menemukan eror `data.json`.
 :::
 
 ![img.png](/assets/images/docs/202312/launcherkp2.png)
 
-- Click on download, if the launcher didn't download the last version automatically.
+- Klik download, jika launcher tidak mengunduh versi terbaru secara otomatis.
 
-### Step 4: Setting up.
+### Step 4: Menyiapkan.
 
 ![img.png](/assets/images/docs/202312/launcherkp3.png)
 
-1. After downloading, link your key.
-    - If you don't know whats your key you can check on [#verification](https://discord.com/channels/1251244897021722735/1255892075371827313), and click on `view subscription information`.
-    - You will have to complete a simple math captcha to continue.
+1. Setelah mengunduh, tautkan key kamu.
+    - Jika kamu tidak tahu key kamu, kamu bisa cek di [#verification](https://discord.com/channels/1251244897021722735/1255892075371827313), dan klik di `view subscription information`.
+    - Kamu harus menyelesaikan captcha matematika simpel untuk melanjutkan.
 
 ![img.png](/assets/images/docs/202312/launcherkp4.png)
 
-2. After succesfully linking your license succesfully, you will need to retrieve your `SP Key`.
+2. Setelah berhasil mentautkan lisensi kamu, kamu perlu mengambil `SP Key`.
 
 ![img.png](/assets/images/docs/202312/launcherkp5.png)
 
-3. After succesfully retrieving your SP Key you will be able to click on the `Launch` button and start using Korepi.
+3. Setelah berhasil mengambil SP Key kamu, kamu bisa klik di tombol `Launch` dan mulai menggunakan Korepi.
