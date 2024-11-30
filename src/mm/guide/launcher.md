@@ -12,6 +12,8 @@ order: 1
 
 ## How to user the Korepi Launcher.
 
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/HFLslOBOOVw" title="How to use Korepi Launcher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 ### Step 1: Download.
 
 - Download latest Launcher from [here](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi).
