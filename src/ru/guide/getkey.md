@@ -13,8 +13,6 @@ order: 1
 
 <div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/x_fIDmyQJiI" title="How to use Pertamax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-::: danger Если у вас есть активная подписка, не привязывайте другую карту, иначе вы потеряете текущую подписку. Если вы привяжете другую карту, вы не сможете получить компенсацию от спонсора.
-:::
 
 ### Шаг 1:
 - Найдите канал `🔐｜verification` [ссылка](https://discord.com/channels/1069057220802781265/1203687333107335198)

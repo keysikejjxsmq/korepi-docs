@@ -1,53 +1,55 @@
 ---
-title: Launcher Tutorial
-icon: key
-category:
-  - Guide
-tag:
-  - Start
-  - License
-author: Schvis
-order: 1
+
+title: Инструкция по использованию Лаунчера
+icon: key  
+category:  
+  - Руководство  
+tag:  
+  - Старт  
+  - Лицензия  
+author: Schvis, QweRez  
+order: 1  
+
 ---
 
-## How to user the Korepi Launcher.
+## Как пользоваться Korepi Launcher.
 
-### Step 1: Download.
+### Шаг 1: Загрузка.
 
-- Download latest Launcher from [here](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi).
-- After downloading open launcher with Administrator.
-- After opening the launcher it will create a folder in `C:/Korepi`, and the launcher will be moved there automatically.
-    - You will be able to change or modify the files in this directory.
+- Скачайте последнюю версию Launchera [здесь](https://github.com/Cotton-Buds/calculator-new/releases/tag/gi).  
+- После скачивания откройте Launcher с правами администратора.  
+- После открытия Launcher создаст папку в `C:/Korepi`, и лаунчер будет автоматически перемещен туда.  
+    - Вы сможете изменять или настраивать файлы в этой директории.  
 
-### Step 2: Select the options you want to use.
+### Шаг 2: Выбор опций.
 
 ![img.png](/assets/images/docs/202312/launcherkp.png)
 
-- You will be able to choose what features you want to use in the launcher.
-    - Keep in mind that launcher is still being developed, you may encounter some unexpected issues.
-- After selecting your desired features, click confirm.
+- Вы сможете выбрать, какие функции вы хотите использовать в Launcher.  
+    - Помните, что Launcher всё ещё находится в разработке, вы можете столкнуться с непредвиденными проблемами.  
+- После выбора необходимых функций нажмите "Подтвердить".  
 
-### Step 3: Installing.
+### Шаг 3: Установка.
 
-::: info Click Ok if you encounter `data.json` error.
+::: info Нажмите "ОК", если вы столкнулись с ошибкой `data.json`. 
 :::
 
 ![img.png](/assets/images/docs/202312/launcherkp2.png)
 
-- Click on download, if the launcher didn't download the last version automatically.
+- Нажмите "Скачать", если Launcher не загрузил последнюю версию автоматически.  
 
-### Step 4: Setting up.
+### Шаг 4: Настройка.
 
 ![img.png](/assets/images/docs/202312/launcherkp3.png)
 
-1. After downloading, link your key.
-    - If you don't know whats your key you can check on [#verification](https://discord.com/channels/1251244897021722735/1255892075371827313), and click on `view subscription information`.
-    - You will have to complete a simple math captcha to continue.
+1. После загрузки свяжите свой ключ.  
+    - Если вы не знаете свой ключ, проверьте канал [#verification](https://discord.com/channels/1251244897021722735/1255892075371827313) и нажмите на `view subscription information`.  
+    - Вам нужно будет решить простой математический капча-тест, чтобы продолжить.  
 
 ![img.png](/assets/images/docs/202312/launcherkp4.png)
 
-2. After succesfully linking your license succesfully, you will need to retrieve your `SP Key`.
+2. После успешного связывания лицензии вам нужно будет получить свой `SP Key`.  
 
 ![img.png](/assets/images/docs/202312/launcherkp5.png)
 
-3. After succesfully retrieving your SP Key you will be able to click on the `Launch` button and start using Korepi.
+3. После успешного получения SP Key вы сможете нажать кнопку `Запустить` и начать использовать Korepi.  
